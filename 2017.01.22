@@ -51,4 +51,22 @@ Podpowiedź:
 Pierwszą liczbę args[0] traktujemy na początku jak maks i porównujemy z resztą liczb, jeżeli znajdziemy liczbę większą maks 
 zmienia swoją wartość
 -------------------------------------------------------------------------------------------------------------------------------
+Zadanie domowe 1: Największy wspólny dzielnik- Algorytm Euklidesa
 
+Nazwa pliku: NWD.java
+
+Dane: 
+2 liczby całkowite (Przy nie podaniu liczb lub podaniu większej ilości liczb- komunikat o błędzie danych)
+
+Wynik: 
+Największy wspólny dzielnik 2 liczb zgodny z poniższą listą kroków
+
+1. Dopóki a jest różne od b wykonuj
+    1.1 Jeżeli a>b to a=a-b w przeciwnym wypadku b=b-a
+2. Wypisz a
+
+------------------------------------------------------------------------------------------------------------------------------
+Zadanie domowe 2
+
+
+      
