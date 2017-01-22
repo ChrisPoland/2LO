@@ -68,5 +68,14 @@ Największy wspólny dzielnik 2 liczb zgodny z poniższą listą kroków
 ------------------------------------------------------------------------------------------------------------------------------
 Zadanie domowe 2
 
+Na stronie : https://sites.google.com/site/javazslp/wczytywanie-danych  umieściłam przykład wprowadzania danych z klawiatury
+
+Stwórz plik NWD2, który dla dwóch licz wprowadzanych z klawiatury po uruchomieniu programu obliczy NWD, a następnie spyta czy
+użytkownik chce kontynuować. 1- tak , 2 nie. Program ma działać w pętli.
+
+Podpowiedź:
+do ...while, działa jak w C++ 
+------------------------------------------------------------------------------------------------------------------------------
+
 
       
