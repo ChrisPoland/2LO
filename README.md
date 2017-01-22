@@ -1,2 +1,2 @@
 Witam uczniów klasy 2BLO i 2GLO w moim repozytorium. 
-Zdalne repozytorium to wersja twojego projektu utrzymywana na serwerze dostępnym poprzez Internet lub inną sieć. Możesz mieć ich kilka, z których każde może być tylko do odczytu lub zarówno odczytu jak i zapisu. Współpraca w grupie zakłada zarządzanie zdalnymi repozytoriami oraz wypychanie zmian na zewnątrz i pobieranie ich w celu współdzielenia pracy/kodu.
+Będziecie tu umieszczali wasze prace.
