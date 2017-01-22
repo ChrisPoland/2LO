@@ -1,0 +1,54 @@
+W folderze 2LO/imię_nazwisko stwórz folder 2301 i umieść w nim poniższe zadania, następnie wyślij je do mojego repozytorium :)
+
+-------------------------------------------------------------------------------------------------------------------------------
+Zadanie 1. ( Instrukcja if)
+Nazwa pliku : Wiek.java
+
+Dane:
+Rok urodzenia: rok
+
+Wynik:
+Komunikat: Masz ....lat, jesteś pełnoletni lub Masz .... lat, jesteś nieletni  lub Błąd danych w przypadku nie podania danych
+
+Przykład wywołania :
+Wiek 1987                    : Masz 30 lat, jesteś pełnoletni
+Wiek 2008                    : Masz 9 lat, jesteś nieletni
+
+Podpowiedź:
+int rok=Integer.parseInt(args[0]);
+-------------------------------------------------------------------------------------------------------------------------------
+Zadanie 2. (Instrukcja for)
+
+Nazwa pliku : Suma.java
+
+Dane:
+Liczby rzeczywiste
+
+Wynik:
+Suma podanych liczb rzeczywistych,
+W przypadku niepodania liczb lub podania więcej niż 10 liczb ma się pojawiac komunikat "Błąd danych"
+
+Przykład wywołania:
+Suma                                       : Bład danych
+Suma 2.25 1.33 3.21                        : 6.79
+
+Podpowiedź:
+System.out.format("%.2f%n", suma); - wyświetlamy wartość zmiennej suma z dwoma miejscami po przecinku
+-------------------------------------------------------------------------------------------------------------------------------
+Zadanie 3 (Tablice,max)
+Nazwa pliku: Maks.java
+
+Dane:
+Liczby rzeczywiste
+
+Wynik:
+Największa liczba podana z klawiatury
+
+Przykładwywołania:
+Maks 2.22 3 17.99 5                         : 17.99
+
+Podpowiedź:
+Pierwszą liczbę args[0] traktujemy na początku jak maks i porównujemy z resztą liczb, jeżeli znajdziemy liczbę większą maks 
+zmienia swoją wartość
+-------------------------------------------------------------------------------------------------------------------------------
+
