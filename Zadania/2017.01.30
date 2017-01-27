@@ -1,0 +1,38 @@
+Będąc w folderze 2LO, wpisz w konsoli polecenie git pull, aby uaktualnić dane w folderze 2LO
+
+Korzystając z danych na witrynie :https://sites.google.com/site/javazslp/liczby-losowe
+wykonaj poniższe zadania:
+
+
+
+Zadanie1
+Napisz program Gra, który sprawdza parametr wywołania z liczbą wylosowaną 
+przez komputer ( z zakresu [0,1]) i wypisuje komunikat
+Wygrałeś, gdy te dwie liczby sa takie same i komunikat "Przegrałeś",
+gdy te liczby się różnią.
+
+Przykład wywołania:
+Gra                 : "Brak danych"
+Gra 13              : "Dane poza zakresem"
+Gra 0 1 0 1         :"Za dużo danych"
+Gra 0               : Komunikat "Wygrałeś " lub "Przegrałeś"
+Gra 1               : Komunikat "Wygrałeś " lub "Przegrałeś"
+
+
+Zadanie2
+Napisz program Losowanie, który dla podanych podczas wywołania funkcji 
+dwóch liczb całkowitych, wylosuje liczbę całkowitą zawartą pomiędzy tymi liczbami,
+z tymi liczbami włącznie
+
+Przykład wywołania:
+Losowanie -5 10        : wypisze całkowitą liczbę losową z zakresu [-5, 10]
+Losowanie                  :"Błąd danych"
+Losowanie 2 1 8 2     :"Błąd danych"
+Losowanie 9 1            : wypisze całkowitą liczbę losową z zakresu [1,9]
+
+
+Zadanie3
+Wypełnij tablicę 10 elementową losowymi liczbami całkowitymi z zakresu [0,100], 
+a następnie skorzystaj z instrukcji służącej do sortowania elementów tablicy
+(znajdź ją sam!!!) i wypisz posortowane liczby jedna obok drugiej 
+oddzielone przecinkami.
