@@ -1,0 +1,28 @@
+Będąc w folderze 2LO, wpisz w konsoli polecenie git pull, aby uaktualnić dane w folderze 2LO
+Stwórz w swoim folderze folder 170202
+
+Korzystając z danych na witrynie :https://sites.google.com/site/javazslp/metody
+wykonaj poniższe zadania:
+
+--------------------------------------------------------------------------------------------------------------------------------
+Zadanie 1.
+Napisz program, zawierający metodę pierwsza, sprawdzający, czy liczba podana przy wywołaniu programu jest liczbą pierwszą.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+Zadanie2.
+Zmodyfikuj powyższy program tak, aby działał w pętli dopóki użytkownik chce kontynuować, dla liczb podawanych z 
+klawiatury w trakcie działania programu.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+Zadanie 3.
+Zmodyfikuj  program z przykładu 2, który dla wypełnionej losowo tablicy 10 elementowej liczbami z zakresu [0,100], 
+wypisze elementy tablicy wraz z komunikatem czy są one liczbami pierwszymi czy nie.
+--------------------------------------------------------------------------------------------------------------------------------
+Zadanie 4.
+Napisz program, który będzie zawierał metodę Cyfry, wyświetlającą cyfry podanej przy wywołaniu funkcji liczby.
+Przykład wywołania:
+Zadanie4 7891             : 1, 9, 8, 7
+Zadanie4                     : błąd danych
+--------------------------------------------------------------------------------------------------------------------------------
