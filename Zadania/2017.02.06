@@ -1,0 +1,14 @@
+Będąc w folderze 2LO, wpisz w konsoli polecenie git pull, aby uaktualnić dane w folderze 2LO
+Stwórz w swoim folderze folder 170206
+
+Korzystając z danych na witrynie :https://sites.google.com/site/javazslp/wczytywanie-danych-z-pliku
+wykonaj poniższe zadania:
+
+--------------------------------------------------------------------------------------------------------------------------------
+Zadanie 1.
+
+    Wypisz w konsoli wszystkie dane zawarte w pliku cyfry.txt
+    Podaj największą i najmniejszą liczbę w pliku
+    Wypisz do pliku pierwsze.txt  liczby pierwsze znajdujące się w pliku cyfry.txt
+
+
